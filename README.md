@@ -20,7 +20,7 @@ Welcome to **DextroToolX** – a slick, instant hotkey launcher for GTA V cheat 
 > 🔥 **Use the `.exe` file from the `dist` folder and always run it as Administrator for proper functionality.**
 
 1. Navigate to the `dist` folder in the project directory.
-2. **Right-click on `DextroToolX.exe` and choose “Run as Administrator”.**
+2. **Right-click on `gta_cheat_helper.exe` and choose “Run as Administrator”.**
 3. Launch GTA V and switch to the game window.
 4. Press any supported hotkey to activate the respective cheat.
 5. Press `F12` to exit the cheat helper.
